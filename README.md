@@ -6,7 +6,7 @@ This repository contains the implementation of machine learning models used to p
 The models are built and evaluated using data from a user study where participants interacted with a robot that performed tasks like 'Place', 'Carry', and 'Pick' while experiencing failures. The robot provided explanations at various levels, and the human's reactions, including emotions, gaze, and gestures, were recorded and analyzed.
 
 ## Project Structure
-- **Datas/**: Contains the datasets used for training and testing the models.
+- **Data/**: Contains the datasets used for training and testing the models.
 - **ml/classification_models/**: Machine learning models, including Random Forest, SVM, Neural Networks and many others.
 - **predicting.ipynb**: Jupyter notebooks used for demonstrating results.
 
