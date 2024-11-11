@@ -273,7 +273,6 @@ def train_logistic_regression(*, features, label, preprocessor, train_x, train_y
                  max_iter=max_iter,
                  class_weight=class_weights,
                  random_state=seed,
-                 n_jobs=-1
              )
              )
         ]
